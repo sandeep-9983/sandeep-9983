@@ -1,14 +1,11 @@
-### 🧾 about_me.json
+# Hi , I'm [sandeep]
 
-```json
-{
-  "name": "sandeep",
-  "role": "Aspiring Software Developer",
-  "focus": ["Java", "DSA"],
-  "mindset": "Learn → Build → Improve",
-  "goal": "Become a strong developer"
-}
-
+Aspiring Software Developer  
+Learning Java & Data Structures  
+ Curious about how things work  
+ Aspiring Software Developer  
+ Learning Java & Data Structures  
+ Curious about how things work  
 ##  Skills
 - Java  
 - Data Structures  
