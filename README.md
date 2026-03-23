@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm [sandeep]
 
 💻 Aspiring Software Developer  
 🚀 Learning Java & Data Structures  
@@ -26,5 +26,4 @@
 
 ---
 
-## 📫 Connect with me
-- LinkedIn (add later)
+
