@@ -2,10 +2,8 @@
 
 Aspiring Software Developer  
 Learning Java & Data Structures  
- Curious about how things work  
- Aspiring Software Developer  
- Learning Java & Data Structures  
- Curious about how things work  
+ Curious about how things work    
+
 ##  Skills
 - Java  
 - Data Structures  
